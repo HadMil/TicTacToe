@@ -1,0 +1,11 @@
+D:\temp\Tic-Tac-Toe-master\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+D:\temp\Tic-Tac-Toe-master\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+D:\temp\Tic-Tac-Toe-master\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+D:\temp\Tic-Tac-Toe-master\Tic Tac Toe\bin\Debug\Tic Tac Toe.xml
+D:\temp\Tic-Tac-Toe-master\Tic Tac Toe\obj\Debug\Tic Tac Toe.vbprojAssemblyReference.cache
+D:\temp\Tic-Tac-Toe-master\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+D:\temp\Tic-Tac-Toe-master\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Resources.resources
+D:\temp\Tic-Tac-Toe-master\Tic Tac Toe\obj\Debug\Tic Tac Toe.vbproj.GenerateResource.cache
+D:\temp\Tic-Tac-Toe-master\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+D:\temp\Tic-Tac-Toe-master\Tic Tac Toe\obj\Debug\Tic Tac Toe.xml
+D:\temp\Tic-Tac-Toe-master\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb

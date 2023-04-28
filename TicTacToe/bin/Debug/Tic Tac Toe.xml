@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Tic Tac Toe
+</name>
+</assembly>
+<members>
+<member name="T:Tic_Tac_Toe.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Tic_Tac_Toe.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Tic_Tac_Toe.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Tic_Tac_Toe.Form1.Button1_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles when a game button has been selected
+ </summary>
+</member>
+<member name="M:Tic_Tac_Toe.Form1.Reset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles when the user selects to restart the game again the game again
+ </summary>
+</member>
+<member name="M:Tic_Tac_Toe.Form1.InitialiseGameBoard">
+ <summary>
+ Initialises the game board ready to start the game
+ </summary>
+</member>
+<member name="M:Tic_Tac_Toe.Form1.Timer_Tick(System.Object,System.EventArgs)">
+ <summary>
+ Time to check to see if the game has ended in a draw.
+ </summary>
+</member>
+<member name="M:Tic_Tac_Toe.Form1.SetupTurnValues(System.Windows.Forms.Button)">
+ <summary>
+ Set the text for the button selected, disable the button from being selected and what background colour needs to be next.
+ </summary>
+</member>
+<member name="M:Tic_Tac_Toe.Form1.CheckMoveForWin(System.Windows.Forms.Button)">
+ <summary>
+ Check to see if that last move has won the game 
+ </summary>
+</member>
+<member name="M:Tic_Tac_Toe.Form1.DisableBoard">
+ <summary>
+ Disable all the buttons for the game
+ </summary>
+</member>
+</members>
+</doc>
